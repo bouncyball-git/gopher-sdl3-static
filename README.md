@@ -1,4 +1,4 @@
-# gopher-sdl3
+# gopher-sdl3-static
 
 GO bindings for [SDL3](https://github.com/libsdl-org/SDL). Includes static SDL lib v3.5.0 (linux only)
 
